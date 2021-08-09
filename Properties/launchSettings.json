@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CertAuthorityInfo": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\ws\\cato-networks-ca.pem"
+    }
+  }
+}
